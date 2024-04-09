@@ -1,0 +1,7 @@
+ul {
+  list-style-type: none; /* removes bullets */
+  padding: 10px;
+}
+li {
+  display: inline; /* change from block to inline which allows horizontal */
+  padding: 10px;}

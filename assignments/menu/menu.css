@@ -1,13 +1,12 @@
 ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
-}
-
-li {
-  float: left;
 }
 
 li a {

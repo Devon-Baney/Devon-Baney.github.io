@@ -1,9 +1,8 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-family: "Merriweather", serif;
-  font-style: normal;
 }
+
 ul {
   display: flex;
   flex-direction: row;

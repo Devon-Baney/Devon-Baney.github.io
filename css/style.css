@@ -46,6 +46,7 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1rem;
   /* solved my centering problem on img, got it from w3schools */
 }
 .workout-day1 {
@@ -68,4 +69,11 @@ img{
   padding: 1rem;
   border: 2px solid #525151;
   text-align: center;
+}
+@media (min-width: 768px) {
+  img{width: 600px
+  }
+.workout-day2{
+padding: 1rem;
+}
 }
